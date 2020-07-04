@@ -1,4 +1,4 @@
-## Webpack react minimal boilerplate
+## Webpack react minimal boilerplate.
 <p align="center">
     <img alt="dependencies" title="dependencies" src="https://img.shields.io/david/hashemkhalifa/webpack-react-boilerplate.svg" >
    <img alt="dependencies" title="dependencies" src="https://img.shields.io/github/last-commit/hashemkhalifa/webpack-react-boilerplate.svg" >
